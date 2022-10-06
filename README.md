@@ -1,6 +1,6 @@
 # postgres_employee_managment_system
 
-The following were implemented for postgres: 
+The following were implemented using postgresql: 
 
 1. Inheritance
 2. Polymorphism (overloading and overriding)
